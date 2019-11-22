@@ -1,5 +1,4 @@
-# json-server
-мои файлы с json для ajax запросов
+# json-server_change-flight-state - Примеры state-ов
 Стучаться нужно в репозиторий json-server_change-flight-state, после чего указывать либо db(получим весь файл), либо ключ обьекта, например flights
 
 # Ограничения
