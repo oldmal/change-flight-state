@@ -7,7 +7,7 @@
 # example
 const runTestFunc = function(interval) {
   $.ajax({
-    url: `https://my-json-server.typicode.com/oldmal/json-server_change-flight-state/flights`,
+    url: `https://my-json-server.typicode.com/oldmal/json-server_change-flight-state/handling`,
     type: 'GET'
   })
     .done(function(res) {
