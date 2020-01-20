@@ -19,7 +19,7 @@
         "success": true,
         "state": "start",
         "data": {
-            "html":"<button class=\"btn-9 chat__start-btn\" id=\"chatStartBtn\" type=\"button\">Изменить дату вылета</button>",
+            "html":"<button class=\"btn-9 chat__start-btn\" id=\"chatStartBtn\" type=\"button\">Изменить дату вылета</button> <input type=\"checkbox\" class=\"hidden\" name=\"startChat\" id=\"chatStartCheckbox\" checked>",
             "text": ""
         }
     }
