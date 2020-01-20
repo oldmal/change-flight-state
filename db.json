@@ -15,7 +15,7 @@
             "text": "Ваш запрос находится в обработке.<br>Это может занять до 48 часов.<br> После обработки мы пришлем Вам письмо c ответом, также ответ появится в этом чате.<br><br><button type='button' class='btn-10 chat__cancel-btn js-chate-cancel-application-btn'>Отменить запрос</button> (После отмены запроса, можете сформировать новый.)"
         }
     },
-    "appeal": {
+    "start": {
         "success": true,
         "state": "start",
         "data": {
